@@ -50,7 +50,8 @@ button { font: inherit; }
 .hero h1 { max-width: 930px; margin: 22px 0 17px; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(43px, 5.2vw, 70px); font-weight: 400; letter-spacing: -.045em; line-height: 1.02; }
 .hero h1 em, .story-grid h2 em, .shop-intro h2 em, .closing-section em { font-weight: 400; }
 .hero h1 em { color: #c5c99b; }
-.hero-copy { margin: 12px 0 30px; color: #eee4d9; font-size: 14px; letter-spacing: .015em; }
+.hero-tagline { margin: 0 0 7px; color: #c7ca9e; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(18px, 2.2vw, 25px); font-style: italic; letter-spacing: -.015em; }
+.hero-copy { margin: 8px 0 30px; color: #eee4d9; font-size: 14px; letter-spacing: .015em; }
 .button { min-height: 46px; display: inline-flex; align-items: center; justify-content: center; gap: 24px; padding: 0 19px; font-size: 11px; transition: background .2s, color .2s; }
 .button-cream { background: var(--cream); color: var(--olive-dark); }
 .button-cream:hover { background: #e5d7c7; }
