@@ -28,6 +28,7 @@ export default function Page() {
         <div className="hero-content">
           <p className="eyebrow hero-eyebrow"><span className="eyebrow-dot" /> A launch for coffee lovers</p>
           <h1 id="hero-title">an event of coffee launch, it is not a coffee shop, it is a launch of a coffee brand.</h1>
+          <p className="hero-tagline">Not for the ordinary</p>
           <p className="hero-copy">A little time for coffee, in good company.</p>
           <a className="button button-cream" href="#details">Discover the launch <ArrowDown size={16} /></a>
         </div>
