@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Coffee Shop — Hyderabad, 24 November 2026',
-  description: 'A coffee shop gathering for coffee lovers in Hyderabad on 24 November 2026.',
+  title: 'Coffee Brand Launch — Hyderabad, 24 November 2026',
+  description: 'A coffee brand launch for coffee lovers in Hyderabad on 24 November 2026.',
   generator: 'v0.app',
   icons: {
     icon: [
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   colorScheme: 'light',
-  themeColor: '#f5f1e9',
+  themeColor: '#f3f1e8',
 }
 
 export default function RootLayout({
